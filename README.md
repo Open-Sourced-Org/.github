@@ -1,11 +1,13 @@
-### Hi there, I am Spirito Phil 👋
+### Hi there, This is `Open Sourced`(Open-Sourced-Org) Organization 👋
 
 ### GitHub Stats:
-![Spirito Phil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spirito7phil&show_icons=true&theme=radical)
+<!--![Open Sourced's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Open-Sourced-Org\&show_icons=true&theme=radical)
 
-![Spirito Phil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spirito7phil\&rank_icon=percentile)
+![Open Sourced's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Open-Sourced-Org\&rank_icon=percentile)
 
-![Spirito Phil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spirito7phil\&rank_icon=github)
+![Open Sourced's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Open-Sourced-Org\&rank_icon=github)
 
 ### Top Technologies:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spirito7phil&layout=compact)](https://github.com/spirito7phil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Open-Sourced-Org\&layout=compact)](https://github.com/spirito7phil/github-readme-stats)
+-->
+`Stats Not applicable for organization`
